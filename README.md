@@ -22,9 +22,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh" alt="omar-albarakeh" /></a> </p>
 
-- 🔭 I’m currently working on [Compiler](https://github.com/omar-albarakeh/Compiler.git)
+- 🔭 I’m currently working on [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Laravel**
 
