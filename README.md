@@ -113,7 +113,7 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
