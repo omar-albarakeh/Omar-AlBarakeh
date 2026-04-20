@@ -101,7 +101,13 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omar-albarakeh&theme=tokyonight&hide_border=true&ring=3399FF&fire=FF6B35&currStreakLabel=3399FF&sideLabels=3399FF&dates=99aacc" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar-albarakeh&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar-albarakeh&theme=tokyonight&utcOffset=3" height="160em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar-albarakeh&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar-albarakeh&theme=tokyonight" height="160em"/>
 </div>
 
 <div align="center">
