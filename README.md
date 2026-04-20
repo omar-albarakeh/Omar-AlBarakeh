@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving%26color=gradient%26customColorList=6,11,20%26height=180%26section=header%26text=Omar%20Al-Barakeh%26fontSize=42%26fontColor=fff%26animation=twinkling%26fontAlignY=32%26desc=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20React%20Specialist%26descAlignY=55%26descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Al-Barakeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20React%20Specialist&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -111,5 +111,5 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving%26color=gradient%26customColorList=6,11,20%26height=100%26section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
