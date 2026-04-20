@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Flutter+Mobile+Developer;Turning+ideas+into+elegant+code+%E2%9A%A1" alt="Typing SVG" />
@@ -82,16 +84,27 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 ---
 
+### 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=FF6B35&currStreakLabel=3399FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-albarakeh&theme=tokyo-night&hide_border=true&color=3399FF&line=3399FF&point=FFFFFF" />
 </div>
 
 ---
 
-### 📊 Most Used Languages
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
