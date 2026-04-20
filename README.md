@@ -1,9 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Al-Barakeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20React%20Specialist&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Flutter+Mobile+Developer;Turning+ideas+into+elegant+code+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/omar-albarakeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/omar.barakeh.967"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/omarbarakeh20002"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="mailto:omaralbarakeh2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -15,21 +24,27 @@
 
 ---
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
 ### 👋 About Me
 
 I'm a full-stack developer dedicated to creating **user-friendly** and **visually appealing** web applications. Passionate about crafting seamless digital experiences and building robust, scalable architectures.
 
-| | |
-|---|---|
-| 🔭 **Working on** | [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App |
-| 🌱 **Learning** | Advanced System Design & Scalable Architectures |
-| 💬 **Ask me about** | React, Next.js, JavaScript, PostgreSQL |
-| 📫 **Reach me** | omaralbarakeh2@gmail.com |
-| ⚡ **Fun fact** | I love turning complex problems into simple, elegant code |
+<br/>
+
+🔭 &nbsp;**Working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App  
+🌱 &nbsp;**Learning:** Advanced System Design & Scalable Architectures  
+💬 &nbsp;**Ask me about:** React, Next.js, JavaScript, PostgreSQL  
+📫 &nbsp;**Reach me:** omaralbarakeh2@gmail.com  
+⚡ &nbsp;**Fun fact:** I love turning complex problems into simple, elegant code
+
+<br clear="both"/>
 
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -38,6 +53,8 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Database**
 
@@ -46,31 +63,45 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+### 💻 Coding Activity
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF&cache_seconds=3600" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -79,33 +110,36 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
 
-### 🤝 Connect
+### 🚀 Featured Project
 
 <div align="center">
-  <a href="https://linkedin.com/in/omar-albarakeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/omar.barakeh.967" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/omarbarakeh20002" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="mailto:omaralbarakeh2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![SolarIQ](https://github-readme-stats.vercel.app/api/pin/?username=omar-albarakeh&repo=SOLARIQ-Mobile-app&theme=tokyonight&hide_border=true&title_color=3399FF&icon_color=3399FF)](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app)
+
 </div>
 
-<br/>
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/omar-albarakeh/omar-albarakeh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
