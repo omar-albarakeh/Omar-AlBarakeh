@@ -96,7 +96,7 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3399FF&icon_color=3399FF&show=reviews,discussions_started,prs_merged" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
 </div>
 
