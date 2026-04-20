@@ -8,11 +8,11 @@
 
 I'm a full-stack developer dedicated to creating **user-friendly** and **visually appealing** web applications. I'm passionate about crafting seamless digital experiences and building robust, scalable architectures.
 
-- 🔭 **Currently working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) (Mobile App)
-- 🌱 **Currently learning:** Advanced System Design & Scalable Architectures
-- 💬 **Ask me about:** React, Next.js, JavaScript, or PostgreSQL
-- 📫 **How to reach me:** omaralbarakeh2@gmail.com
-- ⚡ **Fun fact:** I love turning complex problems into simple, elegant code.
+-  telescope **Currently working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) (Mobile App)
+- seedling **Currently learning:** Advanced System Design & Scalable Architectures
+- speech_balloon **Ask me about:** React, Next.js, JavaScript, or PostgreSQL
+- mailbox **How to reach me:** omaralbarakeh2@gmail.com
+- zap **Fun fact:** I love turning complex problems into simple, elegant code.
 
 <br clear="both"/>
 
@@ -78,12 +78,12 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=3399FF&icon_color=3399FF&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF&cache_seconds=3600" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
 </div>
 
 ---
