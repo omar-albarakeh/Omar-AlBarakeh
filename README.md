@@ -1,25 +1,34 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:3399FF&height=200&section=header&text=Omar%20Al-Barakeh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18&descColor=99ccff&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Flutter+Mobile+Developer;Turning+ideas+into+elegant+code+%E2%9A%A1" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/omar-albarakeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/omar.barakeh.967"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/omarbarakeh20002"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="mailto:omaralbarakeh2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3399FF&center=true&vCenter=true&width=600&height=45&lines=Building+scalable+web+applications;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Flutter+Mobile+Developer;Turning+ideas+into+elegant+code" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omar-albarakeh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/omar-albarakeh?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <a href="https://linkedin.com/in/omar-albarakeh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://fb.com/omar.barakeh.967">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/omarbarakeh20002">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:omaralbarakeh2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omar-albarakeh&label=Profile+Views&color=3399FF&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/omar-albarakeh?label=Followers&style=flat-square&color=3399FF" />
 </div>
 
 ---
@@ -92,7 +101,7 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=FF6B35&currStreakLabel=3399FF" />
+  <img src="https://streak-stats.demolab.com?user=omar-albarakeh&theme=tokyonight&hide_border=true&ring=3399FF&fire=FF6B35&currStreakLabel=3399FF&sideLabels=3399FF&dates=99aacc" />
 </div>
 
 <div align="center">
