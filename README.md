@@ -10,7 +10,7 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 - 🔭 **Currently working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) (Mobile App)
 - 🌱 **Currently learning:** Advanced System Design & Scalable Architectures
-- 💬 **Ask me about:** React, Next.js, or PostgreSQL
+- 💬 **Ask me about:** React, Next.js, JavaScript, or PostgreSQL
 - 📫 **How to reach me:** omaralbarakeh2@gmail.com
 - ⚡ **Fun fact:** I love turning complex problems into simple, elegant code.
 
@@ -78,8 +78,8 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=3399FF&icon_color=3399FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=3399FF&icon_color=3399FF&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF&cache_seconds=1800" />
 </div>
 
 <div align="center">
