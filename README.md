@@ -1,81 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Albarakeh;Full-Stack+Engineer;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+React+Specialist;Prisma+%26+PostgreSQL+Expert;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/11/09/10/32/10-32-15-56_512.gif">
-
-### 👋 About Me
-
-I'm a full-stack developer dedicated to creating **user-friendly** and **visually appealing** web applications. I'm passionate about crafting seamless digital experiences and building robust, scalable architectures.
-
--  telescope **Currently working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) (Mobile App)
-- seedling **Currently learning:** Advanced System Design & Scalable Architectures
-- speech_balloon **Ask me about:** React, Next.js, JavaScript, or PostgreSQL
-- mailbox **How to reach me:** omaralbarakeh2@gmail.com
-- zap **Fun fact:** I love turning complex problems into simple, elegant code.
-
-<br clear="both"/>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=omar-albarakeh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/omar-albarakeh?label=FOLLOWERS&style=for-the-badge&color=blue" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=ocean&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omar-albarakeh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/omar-albarakeh?label=FOLLOWERS&style=for-the-badge&color=blue" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 👋 About Me
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & DB</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" title="Prisma" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" title="Android" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
-    </td>
-  </tr>
-</table>
+I'm a full-stack developer dedicated to creating **user-friendly** and **visually appealing** web applications. Passionate about crafting seamless digital experiences and building robust, scalable architectures.
+
+| | |
+|---|---|
+| 🔭 **Working on** | [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App |
+| 🌱 **Learning** | Advanced System Design & Scalable Architectures |
+| 💬 **Ask me about** | React, Next.js, JavaScript, PostgreSQL |
+| 📫 **Reach me** | omaralbarakeh2@gmail.com |
+| ⚡ **Fun fact** | I love turning complex problems into simple, elegant code |
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF&cache_seconds=3600" />
@@ -86,11 +73,23 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-albarakeh&theme=tokyo-night&hide_border=true&color=3399FF&line=3399FF&point=FFFFFF" alt="Activity Graph" />
+</div>
+
 ---
 
-### 🤝 Connect with me
+### 🏆 GitHub Trophies
 
-<p align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
   <a href="https://linkedin.com/in/omar-albarakeh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -103,4 +102,10 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
   <a href="mailto:omaralbarakeh2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=100&section=footer" />
+</div>
