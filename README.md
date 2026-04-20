@@ -32,11 +32,10 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 <br/>
 
-🔭 &nbsp;**Working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App
-🌱 &nbsp;**Learning:** Advanced System Design & Scalable Architectures
-💬 &nbsp;**Ask me about:** React, Next.js, JavaScript, PostgreSQL
-📫 &nbsp;**Reach me:** omaralbarakeh2@gmail.com
-⚡ &nbsp;**Fun fact:** I love turning complex problems into simple, elegant code
+- 🌱 &nbsp;**Learning:** Advanced System Design & Scalable Architectures
+- 💬 &nbsp;**Ask me about:** React, Next.js, JavaScript, PostgreSQL
+- 📫 &nbsp;**Reach me:** omaralbarakeh2@gmail.com
+- ⚡ &nbsp;**Fun fact:** I love turning complex problems into simple, elegant code
 
 <br clear="both"/>
 
@@ -91,27 +90,18 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-albarakeh&theme=tokyo-night&hide_border=true&color=3399FF&line=3399FF&point=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
 </div>
 
 ---
 
-### 🏆 Trophies
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&margin-w=15&column=4" />
+  <img src="https://raw.githubusercontent.com/omar-albarakeh/omar-albarakeh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
