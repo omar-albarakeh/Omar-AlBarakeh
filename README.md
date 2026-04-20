@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Al-Barakeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20React%20Specialist&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving%26color=gradient%26customColorList=6,11,20%26height=180%26section=header%26text=Omar%20Al-Barakeh%26fontSize=42%26fontColor=fff%26animation=twinkling%26fontAlignY=32%26desc=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20React%20Specialist%26descAlignY=55%26descSize=16" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
 ### 👋 About Me
 
@@ -32,10 +32,10 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 <br/>
 
-🔭 &nbsp;**Working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App  
-🌱 &nbsp;**Learning:** Advanced System Design & Scalable Architectures  
-💬 &nbsp;**Ask me about:** React, Next.js, JavaScript, PostgreSQL  
-📫 &nbsp;**Reach me:** omaralbarakeh2@gmail.com  
+🔭 &nbsp;**Working on:** [SolarIQ](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app) — Solar Mobile App
+🌱 &nbsp;**Learning:** Advanced System Design & Scalable Architectures
+💬 &nbsp;**Ask me about:** React, Next.js, JavaScript, PostgreSQL
+📫 &nbsp;**Reach me:** omaralbarakeh2@gmail.com
 ⚡ &nbsp;**Fun fact:** I love turning complex problems into simple, elegant code
 
 <br clear="both"/>
@@ -85,8 +85,6 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 
 ---
 
-### 💻 Coding Activity
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 </div>
@@ -96,16 +94,16 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-albarakeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3399FF&icon_color=3399FF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-albarakeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3399FF" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=omar-albarakeh&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-albarakeh&theme=tokyo-night&hide_border=true&color=3399FF&line=3399FF&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-albarakeh&theme=tokyo-night&hide_border=true&color=3399FF&line=3399FF&point=FFFFFF" />
 </div>
 
 ---
@@ -113,25 +111,7 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-### 🚀 Featured Project
-
-<div align="center">
-
-[![SolarIQ](https://github-readme-stats.vercel.app/api/pin/?username=omar-albarakeh&repo=SOLARIQ-Mobile-app&theme=tokyonight&hide_border=true&title_color=3399FF&icon_color=3399FF)](https://github.com/omar-albarakeh/SOLARIQ-Mobile-app)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omar-albarakeh/omar-albarakeh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-albarakeh&theme=tokyonight&no-frame=true&margin-w=15&column=4" />
 </div>
 
 ---
@@ -141,5 +121,5 @@ I'm a full-stack developer dedicated to creating **user-friendly** and **visuall
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving%26color=gradient%26customColorList=6,11,20%26height=100%26section=footer" />
 </div>
